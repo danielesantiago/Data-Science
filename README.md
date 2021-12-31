@@ -3,7 +3,7 @@
 
 <img src="https://img.freepik.com/free-photo/futuristic-networking-technology-remix-with-woman-using-virtual-screen_53876-108509.jpg?size=626&ext=jpg" alt="data-science">
 
-> O objetivo desse repositório e armazenar os projetos desenvolvidos durante o estudo sobre Data Science. É importante ressaltar que para todos foram utilizados datasets reais. 
+> O objetivo desse repositório é armazenar os projetos desenvolvidos durante o estudo sobre Data Science. É importante ressaltar que para todos foram utilizados datasets reais. 
 
 ### Ajustes e melhorias
 
