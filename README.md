@@ -11,7 +11,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Analisando dados do AirBnB - Hong Kong
 - [x] Analisando os crimes do Rio de Janeiro
-- [ ] Doenças Cardiovasculares
+- [x] Análise de Doenças Cardiovasculares
 - [ ] Fraudes em Cartões de Crédito
 - [ ] Treinando um Modelo de Machine Learning
 - [ ] Salvando e Carregando um Modelo
