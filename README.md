@@ -1,22 +1,29 @@
-# Data Science
+[![author](https://img.shields.io/badge/author-dani-red.svg)](https://www.linkedin.com/in/daniele-santiago/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/danielesantiago/Data-Science)
+
+<p align="center">
+  <img src="https://github.com/carlosfab/template_portfolio/raw/master/banner.png" >
+</p>
+
+# Daniele Santiago
+<sub>*RPA Developer* at BTG Pactual</sub>
+
+Como desenvolvedora de automação para processos repetitivos combino habilidades analíticas que favorecem o pensamento crítico e resolução de problemas, além de estar habituada com o trabalho em equipe. Atualmente, estou estudando sobre Data Science como meio de aumentar minhas habilidades técnicas, no qual o repositório servirá para armanzenar as analizes desenvolvidas durante o curso "Data Science na Prática", do Sigmoidal.
+Sou graduanda em Ciências da Computação pela Universidade Federal de São Carlos (UFSCar) – conclusão prevista para 2024. Ademais, sou técnica em informática pelo Instituto Federal da Bahia (IFBA) – campus Eunápolis.
+
+**Background in:** C, Java, PHP, RPA e Python.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/daniele-santiago/)
+* [Medium](https://medium.com/@daniele.santiago)
 
 
-<img src="https://img.freepik.com/free-photo/futuristic-networking-technology-remix-with-woman-using-virtual-screen_53876-108509.jpg?size=626&ext=jpg" alt="data-science">
-O objetivo desse repositório é armazenar os projetos desenvolvidos durante o estudo sobre Data Science. É importante ressaltar que para todos foram utilizados datasets reais. 
+## Projetos:
+[EM PROGRESSO]
 
-### Ajustes e melhorias
+* **Análise de Doenças Cardiovasculares:** https://bit.ly/2L2cMwy
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+---
 
-- [x] Analisando dados do AirBnB - Hong Kong
-- [x] Analisando os crimes do Rio de Janeiro
-- [x] Análise de Doenças Cardiovasculares
-- [ ] Fraudes em Cartões de Crédito
 
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<Python 3.6 / Jupyter Notebook / Google Colaboratory>`
 
 
