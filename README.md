@@ -7,7 +7,7 @@
 # Daniele Santiago
 <sub>*RPA Developer* at BTG Pactual</sub>
 
-Como desenvolvedora de automação para processos repetitivos combino habilidades analíticas que favorecem o pensamento crítico e resolução de problemas, além de estar habituada com o trabalho em equipe. Atualmente, estou estudando sobre Data Science como meio de aumentar minhas habilidades técnicas, no qual o repositório servirá para armanzenar as análises desenvolvidas durante o curso "Data Science na Prática", do Sigmoidal.
+Como desenvolvedora de automação para processos repetitivos combino habilidades analíticas que favorecem o pensamento crítico e resolução de problemas, além de estar habituada com o trabalho em equipe. Atualmente, estou estudando sobre Data Science como meio de aumentar minhas habilidades técnicas, no qual o repositório servirá para armazenar as análises desenvolvidas durante o curso "Data Science na Prática", do Sigmoidal.
 Sou graduanda em Ciências da Computação pela Universidade Federal de São Carlos (UFSCar) – conclusão prevista para 2024. Ademais, sou técnica em informática pelo Instituto Federal da Bahia (IFBA) – campus Eunápolis.
 
 **Background in:** C, Java, PHP, RPA e Python.
