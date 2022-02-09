@@ -20,7 +20,7 @@ Sou graduanda em Ciências da Computação pela Universidade Federal de São Car
 ## Projetos:
 [EM PROGRESSO]
 
-* **Análise de Doenças Cardiovasculares:** https://bit.ly/3AZfyLv
+* **Análise AirbnB - Hong Kong:** https://bit.ly/3GQlkAF
 
 ---
 
