@@ -20,7 +20,7 @@ Sou graduanda em Ciências da Computação pela Universidade Federal de São Car
 ## Projetos:
 [EM PROGRESSO]
 
-* **Análise AirbnB - Hong Kong:** https://bit.ly/3Ba3VkV
+* **Análise AirbnB - Hong Kong:** https://bit.ly/3uSOYm6
 
 
 
