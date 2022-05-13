@@ -21,6 +21,7 @@ Sou graduanda em Ciências da Computação pela Universidade Federal de São Car
 [EM PROGRESSO]
 
 * **Análise AirbnB - Hong Kong:** https://bit.ly/3gEV4OX
+* **Panorama da COVID-19:** https://bit.ly/3w9ZgP6
 
 
 
