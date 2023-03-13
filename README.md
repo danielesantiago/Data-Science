@@ -22,6 +22,7 @@ Sou graduanda em Ciências da Computação pela Universidade Federal de São Car
 
 * **Análise AirbnB - Hong Kong:** https://bit.ly/3gEV4OX
 * **Panorama da COVID-19:** https://bit.ly/3w9ZgP6
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3Fn7zv4
 
 
 
