@@ -18173,3 +18173,29 @@ THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
 2023-04-25 08:46:17,169:INFO:Preloading libraries
 2023-04-25 08:46:17,170:INFO:Set up data.
 2023-04-25 08:46:17,174:INFO:Set up index.
+2023-04-25 08:53:37,681:INFO:Initializing predict_model()
+2023-04-25 08:53:37,681:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D56A10EFB0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\danie\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'sex', 'bmi', 'children',
+                                             'smoker', 'region',
+                                             'bmi_category'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=7854))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001D561F2BD00>)
+2023-04-25 08:53:37,681:INFO:Checking exceptions
+2023-04-25 08:53:37,682:INFO:Preloading libraries
+2023-04-25 08:53:47,973:INFO:Initializing predict_model()
+2023-04-25 08:53:47,973:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D56A10EFB0>, estimator=LGBMRegressor(bagging_fraction=1.0, bagging_freq=0, feature_fraction=0.5,
+              learning_rate=0.3, min_child_samples=66, min_split_gain=0.8,
+              n_estimators=170, num_leaves=150, random_state=7854,
+              reg_alpha=0.4, reg_lambda=0.3), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001D56A59F010>)
+2023-04-25 08:53:47,973:INFO:Checking exceptions
+2023-04-25 08:53:47,973:INFO:Preloading libraries
+2023-04-25 08:53:59,301:INFO:Initializing predict_model()
+2023-04-25 08:53:59,302:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D56A10EFB0>, estimator=RandomForestRegressor(n_jobs=-1, random_state=7854), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x000001D56A59F010>)
+2023-04-25 08:53:59,302:INFO:Checking exceptions
+2023-04-25 08:53:59,302:INFO:Preloading libraries
