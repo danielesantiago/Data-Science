@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/3ae7b01c589a4fbf8b7a5da7f17bbb0b/artifacts
+end_time: 1682422591852
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 3ae7b01c589a4fbf8b7a5da7f17bbb0b
+run_name: Ridge Regression
+run_uuid: 3ae7b01c589a4fbf8b7a5da7f17bbb0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682422591711
+status: 3
+tags: []
+user_id: danie

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/196440873452598303/c09bfb5034c4493c9516f090a1aaf0ec/artifacts
+end_time: 1682365112337
+entry_point_name: ''
+experiment_id: '196440873452598303'
+lifecycle_stage: active
+run_id: c09bfb5034c4493c9516f090a1aaf0ec
+run_name: Extreme Gradient Boosting
+run_uuid: c09bfb5034c4493c9516f090a1aaf0ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682365112178
+status: 3
+tags: []
+user_id: danie

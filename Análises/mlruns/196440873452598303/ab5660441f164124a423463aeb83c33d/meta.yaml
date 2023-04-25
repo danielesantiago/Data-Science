@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/196440873452598303/ab5660441f164124a423463aeb83c33d/artifacts
+end_time: 1682365113929
+entry_point_name: ''
+experiment_id: '196440873452598303'
+lifecycle_stage: active
+run_id: ab5660441f164124a423463aeb83c33d
+run_name: Decision Tree Regressor
+run_uuid: ab5660441f164124a423463aeb83c33d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682365113802
+status: 3
+tags: []
+user_id: danie

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/0138ab05346d4905ba6fc63129b1d865/artifacts
+end_time: 1682421168091
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 0138ab05346d4905ba6fc63129b1d865
+run_name: Gradient Boosting Regressor
+run_uuid: 0138ab05346d4905ba6fc63129b1d865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682421167691
+status: 3
+tags: []
+user_id: danie

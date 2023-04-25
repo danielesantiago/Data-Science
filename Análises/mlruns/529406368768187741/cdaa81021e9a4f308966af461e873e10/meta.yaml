@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/cdaa81021e9a4f308966af461e873e10/artifacts
+end_time: 1682383041259
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: cdaa81021e9a4f308966af461e873e10
+run_name: Least Angle Regression
+run_uuid: cdaa81021e9a4f308966af461e873e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682383041128
+status: 3
+tags: []
+user_id: danie

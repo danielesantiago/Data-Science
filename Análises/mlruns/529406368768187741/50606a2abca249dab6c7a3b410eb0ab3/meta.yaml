@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/50606a2abca249dab6c7a3b410eb0ab3/artifacts
+end_time: 1682382879824
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 50606a2abca249dab6c7a3b410eb0ab3
+run_name: Linear Regression
+run_uuid: 50606a2abca249dab6c7a3b410eb0ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682382879690
+status: 3
+tags: []
+user_id: danie

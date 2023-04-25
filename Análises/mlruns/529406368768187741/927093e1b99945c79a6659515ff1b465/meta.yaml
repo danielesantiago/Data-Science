@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/927093e1b99945c79a6659515ff1b465/artifacts
+end_time: 1682422591010
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 927093e1b99945c79a6659515ff1b465
+run_name: K Neighbors Regressor
+run_uuid: 927093e1b99945c79a6659515ff1b465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682422590874
+status: 3
+tags: []
+user_id: danie

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/22ec6a50c1314e49a2a0d2a82a8c681e/artifacts
+end_time: 1682421080111
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 22ec6a50c1314e49a2a0d2a82a8c681e
+run_name: Huber Regressor
+run_uuid: 22ec6a50c1314e49a2a0d2a82a8c681e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682421079982
+status: 3
+tags: []
+user_id: danie

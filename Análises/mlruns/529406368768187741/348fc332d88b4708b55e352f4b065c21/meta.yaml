@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/348fc332d88b4708b55e352f4b065c21/artifacts
+end_time: 1682422052593
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 348fc332d88b4708b55e352f4b065c21
+run_name: Random Forest Regressor
+run_uuid: 348fc332d88b4708b55e352f4b065c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682422052238
+status: 3
+tags: []
+user_id: danie

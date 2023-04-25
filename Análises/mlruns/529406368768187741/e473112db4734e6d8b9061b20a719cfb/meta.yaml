@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/e473112db4734e6d8b9061b20a719cfb/artifacts
+end_time: 1682422487657
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: e473112db4734e6d8b9061b20a719cfb
+run_name: Session Initialized 4db1
+run_uuid: e473112db4734e6d8b9061b20a719cfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682421052407
+status: 3
+tags: []
+user_id: danie

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/44e3c583f04e434ba145f55304516acf/artifacts
+end_time: 1682366063849
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 44e3c583f04e434ba145f55304516acf
+run_name: Orthogonal Matching Pursuit
+run_uuid: 44e3c583f04e434ba145f55304516acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682366063736
+status: 3
+tags: []
+user_id: danie

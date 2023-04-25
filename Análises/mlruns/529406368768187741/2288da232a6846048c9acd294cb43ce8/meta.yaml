@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/2288da232a6846048c9acd294cb43ce8/artifacts
+end_time: 1682422594390
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 2288da232a6846048c9acd294cb43ce8
+run_name: Elastic Net
+run_uuid: 2288da232a6846048c9acd294cb43ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682422594257
+status: 3
+tags: []
+user_id: danie

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/fb0aacfab3c04fda91c0b946a7e941b7/artifacts
+end_time: 1682422592243
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: fb0aacfab3c04fda91c0b946a7e941b7
+run_name: Bayesian Ridge
+run_uuid: fb0aacfab3c04fda91c0b946a7e941b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682422592098
+status: 3
+tags: []
+user_id: danie

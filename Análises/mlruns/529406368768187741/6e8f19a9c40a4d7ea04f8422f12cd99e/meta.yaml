@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/6e8f19a9c40a4d7ea04f8422f12cd99e/artifacts
+end_time: 1682366064095
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 6e8f19a9c40a4d7ea04f8422f12cd99e
+run_name: Dummy Regressor
+run_uuid: 6e8f19a9c40a4d7ea04f8422f12cd99e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682366063989
+status: 3
+tags: []
+user_id: danie

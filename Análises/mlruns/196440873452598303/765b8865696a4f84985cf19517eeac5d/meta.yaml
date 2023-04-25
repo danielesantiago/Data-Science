@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/196440873452598303/765b8865696a4f84985cf19517eeac5d/artifacts
+end_time: 1682365114385
+entry_point_name: ''
+experiment_id: '196440873452598303'
+lifecycle_stage: active
+run_id: 765b8865696a4f84985cf19517eeac5d
+run_name: Passive Aggressive Regressor
+run_uuid: 765b8865696a4f84985cf19517eeac5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682365114239
+status: 3
+tags: []
+user_id: danie

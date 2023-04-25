@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/8c460422f8d44924bd945b83edb1268a/artifacts
+end_time: 1682366060968
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: 8c460422f8d44924bd945b83edb1268a
+run_name: AdaBoost Regressor
+run_uuid: 8c460422f8d44924bd945b83edb1268a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682366060854
+status: 3
+tags: []
+user_id: danie
