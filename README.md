@@ -1,30 +1,47 @@
-[![author](https://img.shields.io/badge/author-dani-red.svg)](https://www.linkedin.com/in/daniele-santiago/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/danielesantiago/Data-Science)
+[![author](https://img.shields.io/badge/author-dani-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](https://github.com/danielesantiago/Data-Science)
 
 <p align="center">
-  <img src="https://github.com/carlosfab/template_portfolio/raw/master/banner.png" >
+  <img src="https://github.com/danielesantiago/Data-Science/blob/main/An%C3%A1lises/Arquivos/ds.png?raw=true" >
 </p>
 
-# Daniele Santiago
-<sub>*Robotic Process Automation Developer* at BTG Pactual</sub>
+# Portfólio de Ciência de Dados
+Este repositório armazena as análises desenvolvidas durante o curso "Data Science na Prática" da Sigmoidal, bem como aprendizados próprios.
+_Nota: Os dados utilizados nos projetos (acessados no diretório de dados) são apenas para fins de demonstração._
 
-Como desenvolvedora de automação para processos repetitivos combino habilidades analíticas que favorecem o pensamento crítico e resolução de problemas, além de estar habituada com o trabalho em equipe. Atualmente, estou estudando sobre Data Science como meio de aumentar minhas habilidades técnicas, no qual o repositório servirá para armazenar as análises desenvolvidas durante o curso "Data Science na Prática", do Sigmoidal.
-Sou graduanda em Ciências da Computação pela Universidade Federal de São Carlos (UFSCar) – conclusão prevista para 2024. Ademais, sou técnica em informática pelo Instituto Federal da Bahia (IFBA) – campus Eunápolis.
+## Instruções para Execução dos Notebooks em Python Localmente
+1. Instale as dependências necessárias.
+2. Execute os notebooks como de costume, usando um servidor Jupyter Notebook, Vscode, etc.
 
-**Background in:** C, Java, PHP, RPA e Python.
+## Tópicos
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/daniele-santiago/)
-* [Medium](https://medium.com/@daniele.santiago)
+- ### Análise Exploratória
 
+	- [Análise dos Dados do Airbnb em Hong Kong](https://github.com/danielesantiago/Data-Science/blob/main/An%C3%A1lises/An%C3%A1lise%20dos%20Dados%20do%20Airbnb%20-%20Hong%20Kong.ipynb): Uma análise dos dados do Airbnb na cidade de Hong Kong, utilizando ferramentas de análise estatística para entender os preços médios, tipos de imóveis disponíveis e suas localizações. Além disso, o notebook apresenta visualizações e insights sobre as avaliações dos usuários e os requisitos mais buscados pelos hóspedes.
+	- [Panorama da COVID-19](https://github.com/danielesantiago/Data-Science/blob/main/An%C3%A1lises/Panorama%20da%20COVID-19.ipynb): Uma análise dos dados da COVID-19 em nível mundial, utilizando ferramentas de visualização para apresentar a evolução dos casos confirmados, mortes e taxas de recuperação em diferentes países. Além disso, o notebook apresenta uma análise dos dados em relação à densidade populacional e IDH dos países, buscando entender possíveis fatores que influenciam a disseminação da doença.
 
-## Projetos:
-[EM PROGRESSO]
+	_Ferramentas: Pandas, Seaborn, Matplotlib_
 
-* **Análise AirbnB - Hong Kong:** https://bit.ly/3gEV4OX
-* **Panorama da COVID-19:** https://bit.ly/3w9ZgP6
-* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3Fn7zv4
-* **Churn Prediction:** https://bit.ly/3L0Rb6I
+- ### Machine Learning
 
+	- [Detecção de Fraudes em Cartões de Crédito](https://bit.ly/3Fn7zv4): Neste projeto, é utilizada uma base de dados de transações de cartões de crédito para desenvolver um modelo de aprendizado de máquina capaz de identificar fraudes. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando maximizar a identificação de transações fraudulentas e minimizar falsos positivos.
+	- [Churn Prediction](https://bit.ly/3L0Rb6I): Neste projeto, é desenvolvido um modelo de aprendizado de máquina para prever a taxa de churn de clientes em uma empresa fictícia. São utilizadas técnicas de pré-processamento, análise exploratória e seleção de atributos para treinar modelos de classificação, buscando prever quais clientes têm maior probabilidade de abandonar a empresa e identificar possíveis fatores que influenciam nessa decisão. O objetivo final é ajudar a empresa a tomar medidas preventivas para reduzir a taxa de churn e aumentar a retenção de clientes.
 
+	_Ferramentas: Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
+  
+- ### Auto Machine Learning
+
+	- [Classificação de Saúde Fetal](https://github.com/danielesantiago/Data-Science/blob/main/An%C3%A1lises/Fetal%20Health%20Classification.ipynb): Neste projeto, é desenvolvido um modelo de classificação para prever a saúde fetal com base em dados clínicos. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de aprendizado de máquina são treinados e avaliados para encontrar o que apresenta o melhor desempenho na classificação das diferentes condições de saúde fetal.
+
+	- [Previsão de Custos de Seguro de Saúde](https://github.com/danielesantiago/Data-Science/blob/main/An%C3%A1lises/Health%20Insurance%20Cost%20Prediction.ipynb): Neste projeto, é desenvolvido um modelo de regressão para prever os custos de seguro de saúde com base em informações sobre os segurados. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis correlações entre as variáveis. Em seguida, diferentes modelos de regressão são treinados e avaliados para encontrar o que apresenta o melhor desempenho na previsão dos custos de seguro de saúde. O objetivo final é ajudar as seguradoras a estimar os custos de seus segurados e definir preços mais justos para seus planos de saúde.
+
+	_Ferramentas: Pycaret, Sklearn, Imblearn, Pandas, Seaborn, Matplotlib_
+  
+ 
+- ### Séries Temporais
+
+	- [Previsão de Demanda de Vinhos com Séries Temporais](https://github.com/danielesantiago/Data-Science/blob/main/An%C3%A1lises/Previs%C3%A3o%20de%20Demanda%20de%20Vinhos%20com%20S%C3%A9ries%20Temporais.ipynb): : Neste projeto, é desenvolvido um modelo de previsão de demanda de vinhos com base em séries temporais. São utilizados dados históricos de vendas para treinar e testar diferentes modelos de previsão, como ARIMA, Prophet e LSTM. São utilizadas técnicas de pré-processamento e análise exploratória para entender a distribuição dos dados e identificar possíveis tendências e sazonalidades. O objetivo final é ajudar uma vinícola a antecipar a demanda por seus produtos e otimizar sua produção e distribuição.
+  
+	_Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
+  
 
 
