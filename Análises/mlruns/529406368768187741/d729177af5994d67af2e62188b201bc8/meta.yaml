@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/d729177af5994d67af2e62188b201bc8/artifacts
+end_time: 1683671447317
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: d729177af5994d67af2e62188b201bc8
+run_name: Light Gradient Boosting Machine
+run_uuid: d729177af5994d67af2e62188b201bc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683671447190
+status: 3
+tags: []
+user_id: danie

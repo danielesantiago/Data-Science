@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- pip<=23.1.2
+- pip:
+  - mlflow<3,>=2.3
+  - pycaret==3.0.0
+name: charges-env
