@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/danie/Videos/Data-Science/An%C3%A1lises/mlruns/529406368768187741/d46d5f72745e4c638476455bf1ed101c/artifacts
+end_time: 1683671305498
+entry_point_name: ''
+experiment_id: '529406368768187741'
+lifecycle_stage: active
+run_id: d46d5f72745e4c638476455bf1ed101c
+run_name: Lasso Regression
+run_uuid: d46d5f72745e4c638476455bf1ed101c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683671305338
+status: 3
+tags: []
+user_id: danie
