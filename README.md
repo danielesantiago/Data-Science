@@ -45,5 +45,11 @@ _Nota: Os dados utilizados nos projetos (acessados no diretório de dados) são 
   
 	_Ferramentas: Prophet, Sklearn, Pandas, Seaborn, Matplotlib_
   
-
+## Artigos
+- ### [Analisando os dados do Airbnb — Hong Kong](https://medium.com/@daniele.santiago/analisando-os-dados-do-airbnb-hong-kong-81e91f08919b)
+- ### [Panorama da COVID-19 no Brasil e no Mundo](https://medium.com/@daniele.santiago/panorama-da-covid-19-no-brasil-e-no-mundo-1c3b6a3d2ae)
+- ### [Como escolher o gráfico ideal?](https://medium.com/@daniele.santiago/como-escolher-o-gr%C3%A1fico-ideal-19d2501662c2)
+- ### [Boxplot: Como interpretar e plotar em Python?](https://medium.com/@daniele.santiago/boxplot-como-interpretar-e-plotar-em-python-d80f929eae3b)
+- ### [Detectando padrões de fraude em transações de cartão de crédito com Machine Learning](https://medium.com/@daniele.santiago/detectando-padr%C3%B5es-de-fraude-em-transa%C3%A7%C3%B5es-de-cart%C3%A3o-de-cr%C3%A9dito-com-machine-learning-ffb3c58308df)
+- ### [Estratégias eficazes para lidar com conjuntos de dados desbalanceados](https://medium.com/@daniele.santiago/estrat%C3%A9gias-eficazes-para-lidar-com-conjuntos-de-dados-desbalanceados-5b873894483b)
 
